@@ -1,2 +1,2 @@
 software-project-1
-This is the branch where we modify our codes before merging with main, only  in the the admin should merge into the main where  when all problems are resolved and everything is okay in staging branch
+This is the branch where we modify our codes before merging with main, only  in the the admin should merge into the main where  when all problems are resolved and everything is okay in staging branchgit 

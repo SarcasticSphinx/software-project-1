@@ -1,0 +1,5 @@
+Lab Branch Update
+
+- Added a sample text file.
+- Updated project documentation.
+- Verified Git workflow.
